@@ -9,7 +9,7 @@ Login
 
 <div class="flex min-h-full h-screen flex-col justify-center px-6 py-12 lg:px-8 grid gap-4 place-content-center bg-slate-100">
     <div class="sm:mx-auto sm:w-full sm:max-w-sm">
-        <h1 class="mt-5 text-center text-3xl font-bold leading-9 tracking-tight text-blue-800">Selamat Datang!</h1>
+        <h1 class="mt-5 text-center text-3xl font-bold leading-9 tracking-tight text-blue-800">Selamat Datang. Silakan Login.</h1>
     </div>
     <div class="border-gray border-2 min-w-96 rounded-xl bg-white">
         <div class="sm:mx-auto sm:w-full sm:max-w-sm">
